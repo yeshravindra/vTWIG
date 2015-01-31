@@ -1,0 +1,102 @@
+[01-Nov-2012 19:48:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/vtwigcom/public_html/yeshwanth/version 2/database/db.php on line 3
+[04-Nov-2012 08:01:13] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/yeshwanth/article_cover_page.php on line 12
+[04-Nov-2012 21:09:42] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/yeshwanth/article_cover_page.php on line 12
+[12-Nov-2012 17:19:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[12-Nov-2012 17:46:56] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[15-Nov-2012 19:50:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[15-Nov-2012 20:13:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[16-Nov-2012 17:22:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[16-Nov-2012 17:39:32] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[18-Nov-2012 10:53:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[19-Nov-2012 10:32:09] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[19-Nov-2012 10:53:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[19-Nov-2012 11:05:29] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[19-Nov-2012 11:06:30] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[19-Nov-2012 11:07:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[19-Nov-2012 11:53:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[19-Nov-2012 11:53:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[20-Nov-2012 14:22:38] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[20-Nov-2012 14:31:55] PHP Warning:  move_uploaded_file(article_images/104/article_cover_page.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 14:31:55] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpfnUYQJ' to 'article_images/104/article_cover_page.jpg' in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 14:32:14] PHP Warning:  move_uploaded_file(article_images/104/article_cover_page.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 14:32:14] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpJsSIw9' to 'article_images/104/article_cover_page.jpg' in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 14:33:15] PHP Warning:  move_uploaded_file(article_images/104/article_cover_page.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 14:33:15] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpCdfJNd' to 'article_images/104/article_cover_page.jpg' in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 14:35:16] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[20-Nov-2012 14:44:43] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[20-Nov-2012 14:46:02] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[20-Nov-2012 14:53:19] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[20-Nov-2012 15:06:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[20-Nov-2012 16:10:40] PHP Warning:  move_uploaded_file(article_images/2/article_cover_page.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 16:10:40] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php64FvcM' to 'article_images/2/article_cover_page.jpg' in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 16:12:04] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[20-Nov-2012 16:30:40] PHP Warning:  move_uploaded_file(article_images/1/article_cover_page.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 16:30:40] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpxI0vc5' to 'article_images/1/article_cover_page.jpg' in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 17:06:55] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[20-Nov-2012 17:08:45] PHP Warning:  move_uploaded_file(article_images/3/article_cover_page.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 17:08:45] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phptxP5Au' to 'article_images/3/article_cover_page.jpg' in /home/vtwigcom/public_html/article_cover_page.php on line 10
+[20-Nov-2012 20:02:54] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[20-Nov-2012 20:08:20] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[20-Nov-2012 23:38:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[22-Nov-2012 02:01:30] PHP Fatal error:  Call to undefined function  arrange_article() in /home/vtwigcom/public_html/top_scroll.php on line 47
+[22-Nov-2012 11:41:09] PHP Fatal error:  Call to undefined function  arrange_article() in /home/vtwigcom/public_html/top_scroll.php on line 48
+[22-Nov-2012 11:42:09] PHP Fatal error:  Call to undefined function  arrange_article() in /home/vtwigcom/public_html/top_scroll.php on line 48
+[22-Nov-2012 11:42:21] PHP Fatal error:  Call to undefined function  arrange_article() in /home/vtwigcom/public_html/top_scroll.php on line 48
+[22-Nov-2012 11:43:00] PHP Fatal error:  Call to undefined function  arrange_article() in /home/vtwigcom/public_html/top_scroll.php on line 48
+[22-Nov-2012 11:43:06] PHP Fatal error:  Call to undefined function  arrange_article() in /home/vtwigcom/public_html/top_scroll.php on line 48
+[22-Nov-2012 11:43:41] PHP Fatal error:  Call to undefined function  arrange_article() in /home/vtwigcom/public_html/top_scroll.php on line 48
+[22-Nov-2012 11:44:09] PHP Fatal error:  Call to undefined function  arrange_article() in /home/vtwigcom/public_html/top_scroll.php on line 48
+[22-Nov-2012 21:00:05] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[24-Nov-2012 08:50:20] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[26-Nov-2012 00:11:27] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[27-Nov-2012 09:36:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[27-Nov-2012 09:43:10] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[27-Nov-2012 09:48:07] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[27-Nov-2012 09:54:12] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[27-Nov-2012 10:07:35] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[27-Nov-2012 10:16:03] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[27-Nov-2012 10:27:01] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[27-Nov-2012 10:37:36] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[27-Nov-2012 10:45:17] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[27-Nov-2012 10:55:09] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[27-Nov-2012 11:10:22] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[02-Dec-2012 17:17:13] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vtwigcom/public_html/vTwigTest.php on line 73
+[03-Dec-2012 23:15:53] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[04-Dec-2012 17:02:49] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[04-Dec-2012 17:21:39] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[04-Dec-2012 18:41:47] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[04-Dec-2012 18:48:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[04-Dec-2012 19:13:30] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[08-Dec-2012 19:04:00] PHP Warning:  require_once(Zend/Loader.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/vtwigcom/public_html/operations.php on line 2
+[08-Dec-2012 19:04:00] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Zend/Loader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/public_html/ZendFramework-1.12.0/library') in /home/vtwigcom/public_html/operations.php on line 2
+[08-Dec-2012 19:06:06] PHP Warning:  require_once(Zend/Loader.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/vtwigcom/public_html/operations.php on line 2
+[08-Dec-2012 19:06:06] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Zend/Loader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/public_html/ZendFramework-1.12.0/library') in /home/vtwigcom/public_html/operations.php on line 2
+[08-Dec-2012 19:06:43] PHP Warning:  require_once(Zend/Loader.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/vtwigcom/public_html/operations.php on line 2
+[08-Dec-2012 19:06:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Zend/Loader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/public_html/ZendFramework-1.12.0/library') in /home/vtwigcom/public_html/operations.php on line 2
+[08-Dec-2012 19:55:55] PHP Warning:  require_once(Zend/Loader.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/vtwigcom/public_html/operations.php on line 2
+[08-Dec-2012 19:55:55] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Zend/Loader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/public_html/ZendFramework-1.12.0/library') in /home/vtwigcom/public_html/operations.php on line 2
+[08-Dec-2012 20:01:01] PHP Warning:  require_once(Zend/Loader.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/vtwigcom/public_html/operations.php on line 2
+[08-Dec-2012 20:01:01] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Zend/Loader.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/public_html/ZendFramework-1.12.0/libra') in /home/vtwigcom/public_html/operations.php on line 2
+[08-Dec-2012 21:06:43] PHP Warning:  Missing argument 2 for get_article_content_page_wise_to_edit(), called in /home/vtwigcom/public_html/vTwigTest2.php on line 9 and defined in /home/vtwigcom/public_html/functions/category_func.php on line 216
+[08-Dec-2012 21:12:10] PHP Warning:  Missing argument 2 for get_article_content_page_wise_to_edit(), called in /home/vtwigcom/public_html/aJ_l0Ad.php on line 9 and defined in /home/vtwigcom/public_html/functions/category_func.php on line 216
+[08-Dec-2012 21:12:48] PHP Fatal error:  Call to undefined function  error_report() in /home/vtwigcom/public_html/aJ_l0Ad.php on line 2
+[09-Dec-2012 17:24:06] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[09-Dec-2012 18:14:37] PHP Parse error:  syntax error, unexpected '@' in /home/vtwigcom/public_html/vTwigTest.php on line 2
+[09-Dec-2012 18:15:09] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'vtwigcom'@'localhost' (using password: NO) in /home/vtwigcom/public_html/vTwigTest.php on line 2
+[09-Dec-2012 18:15:09] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/vtwigcom/public_html/vTwigTest.php on line 2
+[09-Dec-2012 18:17:16] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'vtwigcom'@'localhost' (using password: NO) in /home/vtwigcom/public_html/vTwigTest.php on line 3
+[09-Dec-2012 18:17:16] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/vtwigcom/public_html/vTwigTest.php on line 3
+[09-Dec-2012 18:30:11] PHP Parse error:  syntax error, unexpected ';' in /home/vtwigcom/public_html/register.php on line 11
+[09-Dec-2012 18:33:29] PHP Parse error:  syntax error, unexpected ';' in /home/vtwigcom/public_html/register.php on line 11
+[09-Dec-2012 19:48:18] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[09-Dec-2012 20:15:09] PHP Parse error:  syntax error, unexpected '@' in /home/vtwigcom/public_html/vTwigTest.php on line 2
+[11-Dec-2012 04:18:45] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[11-Dec-2012 04:29:26] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[11-Dec-2012 04:33:52] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[11-Dec-2012 04:48:23] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[11-Dec-2012 05:08:57] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[11-Dec-2012 05:13:11] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[11-Dec-2012 05:15:28] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[11-Dec-2012 05:23:46] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[11-Dec-2012 05:29:48] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12
+[11-Dec-2012 05:50:53] PHP Warning:  mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in /home/vtwigcom/public_html/article_cover_page.php on line 12

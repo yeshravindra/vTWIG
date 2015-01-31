@@ -1,0 +1,95 @@
+body{
+	
+}
+#log_marg{
+	display:block;
+	background:#506488;
+	width:1005px;
+	height:700px;
+	position:absolute;
+	top:0px;
+	overflow:hidden;
+}
+#logo{	
+	position:relative;
+	display:block;
+	width:143px;
+	height:60px;
+	left:50px;
+	background-image:url('templates/media/logo2.gif');
+	top:0px;
+	z-index:100;
+}
+#top_bar{
+	position:relative;
+	display:block;
+	width:1005px;
+	background:black;
+	z-index:99;
+	top:10px;
+}
+#field_box{
+	position:relative;
+	background:#2b2e35;
+	width:400px;
+	left:580px;
+	height:470px;
+	top:20px;
+}
+#field_box h1{
+	color:white;
+	font:25px Calibri;
+	margin-left:10px;
+}
+
+#login_form{
+	position:relative;
+	top:0px;
+	left:50px;
+}
+#register_form{
+	position:relative;
+	left:50px;
+	
+}
+.text_box {
+	margin:2px;
+	width:300px;
+	height:27px;
+}
+#vtwig_cover{
+	position:relative;
+	width:550px;
+	height:191px;
+	top:-400px;
+	left:15px;
+}
+
+#theme{
+	position:relative;
+	left:15px;
+	top:-400px;
+	color:white;
+	font:25px calibri;
+	width:550;
+	text-align:center;
+}
+#footer{
+	position:relative;
+	display:block;
+	background:#a4b5d5;
+	width:1005px;
+	height:100px;
+	top:-170px;
+	left:0px;
+	color:white;
+	text-align:center;
+}
+.button_{
+	background:#9f6f13;
+	width:150px;
+	height:27px;
+	cursor:pointer;
+	color:white;
+	font:bold 14px calibri;
+}

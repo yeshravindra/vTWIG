@@ -1,0 +1,45 @@
+
+ <!-- Begin Attracta Include 2012-11-10 10:02 -->
+<script type='text/javascript'> 
+function attracta_loadjs(url) {
+   (function() {
+       var s = document.createElement('script');
+       s.type = 'text/javascript';
+       s.async = true;
+       s.src = url;
+       var x = document.getElementsByTagName('script')[0];
+       x.parentNode.insertBefore(s, x);
+   })();
+}
+function attracta_shouldrun() {
+   var v = ["/admin/","/adm/","/wp-admin/","/administrator/"];
+   for (x in v) if(window.location.pathname.indexOf(v[x]) == 0) return false;
+   return true;
+}
+function attracta_window_width() {
+   if (document.body && document.body.offsetWidth) return document.body.offsetWidth;
+   if (document.compatMode=='CSS1Compat' && document.documentElement && document.documentElement.offsetWidth ) return document.documentElement.offsetWidth;
+   if (window.innerWidth) return window.innerWidth;
+   return 0;
+}
+function attracta_window_height() {
+   if (document.body && document.body.offsetHeight) return document.body.offsetHeight;
+   if (document.compatMode=='CSS1Compat' && document.documentElement && document.documentElement.offsetHeight ) return document.documentElement.offsetHeight;
+   if (window.innerHeight) return window.innerHeight;
+   return 0;
+}
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36233659-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- End Attracta Include 2012-11-10 10:02 -->

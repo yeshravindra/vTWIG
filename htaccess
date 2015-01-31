@@ -1,0 +1,25 @@
+Options -Indexes
+<IfModule dir_module>
+    DirectoryIndex index.php
+</IfModule>
+Options +FollowSymLinks -MultiViews
+RewriteEngine On
+
+RewriteBase /
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteCond %{REQUEST_FILENAME} !.*search.php$ [NC]
+RewriteCond %{REQUEST_FILENAME} !.*login.php$ [NC]
+RewriteCond %{REQUEST_FILENAME} !.*register.php$ [NC]
+RewriteCond %{REQUEST_FILENAME} !.*article_cover_page.php$ [NC]
+RewriteCond %{REQUEST_FILENAME} !.*article_image_upload.php$ [NC]
+RewriteCond %{REQUEST_FILENAME} !.*edit_article.php$ [NC]
+RewriteCond %{REQUEST_FILENAME} !.*upload.php$ [NC]
+RewriteCond %{REQUEST_FILENAME} !.*create_display_box.php$ [NC]
+RewriteCond %{REQUEST_FILENAME} !.*operations.php$ [NC]
+
+RewriteCond %{THE_REQUEST} ^[A-Z]+\ /([^/]+/)*[^.#?\ ]+\.php([#?][^\ ]*)?\ HTTP/
+RewriteRule ^(([^/]+/)*[^.]+)\.php http://www.vtwig.com/$1 [R=301,L]
